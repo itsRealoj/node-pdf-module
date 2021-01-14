@@ -1,0 +1,14 @@
+{
+  "name": "express-pdf",
+  "version": "1.0.0",
+  "description": "pdf creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Ochieng",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-creator-node": "^1.4.2"
+  }
+}
